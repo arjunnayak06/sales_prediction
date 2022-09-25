@@ -1,0 +1,523 @@
+Skip to content <#start-of-content>
+<https://github.com/>
+
+  *
+    In this repository All GitHub ↵
+    Jump to ↵
+
+  * No suggested jump to results
+
+  *
+    In this repository All GitHub ↵
+    Jump to ↵
+  *
+    In this user All GitHub ↵
+    Jump to ↵
+  *
+    In this repository All GitHub ↵
+    Jump to ↵
+  *
+
+Dashboard <https://github.com/dashboard> Pullrequests
+<https://github.com/pulls> Issues <https://github.com/issues> Codespaces
+<https://github.com/codespaces>
+Marketplace <https://github.com/marketplace>
+Explore <https://github.com/explore> Sponsors
+<https://github.com/sponsors/accounts> Settings
+<https://github.com/settings/profile> @aparnanunnaboina aparnanunnaboina
+<https://github.com/aparnanunnaboina>
+Sign out
+
+<https://github.com/>
+<https://github.com/notifications>
+
+New repository <https://github.com/new> Import repository
+<https://github.com/new/import> New gist <https://gist.github.com/> New
+organization <https://github.com/organizations/new>
+
+@aparnanunnaboina
+
+Sorry, something went wrong.
+
+{{ message }}
+
+/  ...  /  
+aparnanunnaboina  /  
+
+sales_prediction  /  
+
+Clear Command Palette
+
+Tip: Type # to search pull requests
+Type ? for help and tips
+Tip: Type # to search issues
+Type ? for help and tips
+Tip: Type # to search discussions
+Type ? for help and tips
+Tip: Type ! to search projects
+Type ? for help and tips
+Tip: Type @ to search teams
+Type ? for help and tips
+Tip: Type @ to search people and organizations
+Type ? for help and tips
+Tip: Type > to activate command mode
+Type ? for help and tips
+Tip: Go to your accessibility settings to change your keyboard shortcuts
+Type ? for help and tips
+Tip: Type author:@me to search your content
+Type ? for help and tips
+Tip: Type is:pr to filter to pull requests
+Type ? for help and tips
+Tip: Type is:issue to filter to issues
+Type ? for help and tips
+Tip: Type is:project to filter to projects
+Type ? for help and tips
+Tip: Type is:open to filter to open content
+Type ? for help and tips
+We’ve encountered an error and some results aren't available at this
+time. Type a new search or try again later.
+No results matched your search
+Top result
+Commands Type > to filter
+Global Commands Type > to filter
+This Page
+Files
+Pages
+Access Policies
+Organizations
+Repositories
+Issues, pull requests, and discussions Type # to filter
+Teams
+Users
+Projects
+Modes
+Use filters in issues, pull requests, discussions, and projects
+
+Search for *issues* and *pull requests* # Search for *issues, pull
+requests, discussions,* and *projects* # Search for *organizations,
+repositories,* and *users* @ Search for *projects* ! Search for *files*
+/ Activate *command mode* > Search your issues, pull requests, and
+discussions # author:@me Search your issues, pull requests, and
+discussions # author:@me Filter to pull requests # is:pr Filter to
+issues # is:issue Filter to discussions # is:discussion Filter to
+projects # is:project Filter to open issues, pull requests, and
+discussions # is:open
+
+
+    Create list
+
+Create a list to organize your starred repositories.
+
+Name .
+
+32 remaining
+
+Description .
+
+160 remaining
+
+.
+Create
+
+*Tip:* type |:| to add emoji to the name or description.
+
+Beta Lists are currently in beta. Share feedback and report bugs.
+<https://github.com/github/feedback/discussions/categories/lists-feedback>
+
+aparnanunnaboina <https://github.com/aparnanunnaboina> /
+*sales_prediction <https://github.com/aparnanunnaboina/sales_prediction>
+
+* Public
+
+  *
+    Pin
+
+  *
+    Unwatch Stop ignoring Watch 1
+
+
+          Notifications
+
+    Participating and @mentions
+    Only receive notifications from this repository when participating
+    or @mentioned.
+
+    All Activity
+    Notified of all notifications on this repository.
+
+    Ignore
+    Never be notified.
+
+    Custom
+    Select events you want to be notified of in addition to
+    participating and @mentions.
+
+    Get push notifications on iOS
+    <https://apps.apple.com/app/apple-store/id1477376905?ct=watch-dropdown&mt=8&pt=524675> or Android <https://play.google.com/store/apps/details?id=com.github.android&referrer=utm_campaign%3Dwatch-dropdown%26utm_medium%3Dweb%26utm_source%3Dgithub>.
+
+
+    Custom
+
+
+      Custom
+
+    Select events you want to be notified of in addition to
+    participating and @mentions.
+
+    Issues
+    Pull requests
+    Releases
+    Discussions
+    Security alerts
+
+    Apply
+
+    Cancel
+
+  *
+    Fork 1
+
+  *
+
+
+        Unstar this repository?
+
+    This will remove {{ repoNameWithOwner }} from the {{ listsWithCount
+    }} that it's been added to.
+
+    Unstar
+
+    Starred 0
+
+    Star 0
+
+  *
+
+    Code <https://github.com/aparnanunnaboina/sales_prediction>
+  *
+
+    Issues 0 <https://github.com/aparnanunnaboina/sales_prediction/issues>
+  *
+
+    Pull requests 0
+    <https://github.com/aparnanunnaboina/sales_prediction/pulls>
+  *
+
+    Actions <https://github.com/aparnanunnaboina/sales_prediction/actions>
+  *
+
+    Projects 0
+    <https://github.com/aparnanunnaboina/sales_prediction/projects>
+  *
+
+    Wiki <https://github.com/aparnanunnaboina/sales_prediction/wiki>
+  *
+
+    Security <https://github.com/aparnanunnaboina/sales_prediction/security>
+  *
+
+    Insights <https://github.com/aparnanunnaboina/sales_prediction/pulse>
+  *
+
+    Settings <https://github.com/aparnanunnaboina/sales_prediction/settings>
+
+More
+
+  * Code <https://github.com/aparnanunnaboina/sales_prediction>
+  * Issues <https://github.com/aparnanunnaboina/sales_prediction/issues>
+  * Pull requests
+    <https://github.com/aparnanunnaboina/sales_prediction/pulls>
+  * Actions <https://github.com/aparnanunnaboina/sales_prediction/actions>
+  * Projects
+    <https://github.com/aparnanunnaboina/sales_prediction/projects>
+  * Wiki <https://github.com/aparnanunnaboina/sales_prediction/wiki>
+  * Security
+    <https://github.com/aparnanunnaboina/sales_prediction/security>
+  * Insights <https://github.com/aparnanunnaboina/sales_prediction/pulse>
+  * Settings
+    <https://github.com/aparnanunnaboina/sales_prediction/settings>
+
+Open in github.dev <https://github.dev/> Open in a new github.dev tab
+<https://github.dev/>
+Permalink
+<https://github.com/aparnanunnaboina/sales_prediction/blob/000d73782f05c4632d83800e395b7083ee7add4d/Linear%20Regression%20Project.py>
+main
+Switch branches/tags
+
+Branches
+
+Tags
+
+Could not load branches
+Create branch: {{ refName }} from ‘main’
+
+{{ refName }} default
+<https://github.com/aparnanunnaboina/sales_prediction/blob/%7B%7B%20urlEncodedRefName%20%7D%7D/Linear%20Regression%20Project.py>
+View all branches
+<https://github.com/aparnanunnaboina/sales_prediction/branches>
+
+Could not load tags
+Nothing to show
+{{ refName }} default
+<https://github.com/aparnanunnaboina/sales_prediction/blob/%7B%7B%20urlEncodedRefName%20%7D%7D/Linear%20Regression%20Project.py>
+View all tags <https://github.com/aparnanunnaboina/sales_prediction/tags>
+
+
+    sales_prediction <https://github.com/aparnanunnaboina/sales_prediction>/*Linear Regression Project.py* /Jump to
+    Code definitions
+
+    Code navigation index up-to-date
+
+Go to file <https://github.com/aparnanunnaboina/sales_prediction/find/main>
+
+  * Go to file T
+    <https://github.com/aparnanunnaboina/sales_prediction/find/main>
+  *
+    Go to line L
+
+  *
+    Go to definition R
+
+  *
+  *
+    Copy path
+
+  *
+    Copy permalink
+
+This commit does not belong to any branch on this repository, and may
+belong to a fork outside of the repository.
+@aparnanunnaboina <https://github.com/aparnanunnaboina>
+aparnanunnaboina <https://github.com/aparnanunnaboina> Update Linear
+Regression Project.py
+<https://github.com/aparnanunnaboina/sales_prediction/commit/97721ef15dece4d9d73fd345e93e0632b254887a>
+Latest commit 97721ef
+<https://github.com/aparnanunnaboina/sales_prediction/commit/97721ef15dece4d9d73fd345e93e0632b254887a> on 23 Jul 2021 *History* <https://github.com/aparnanunnaboina/sales_prediction/commits/main/Linear%20Regression%20Project.py>
+*1* contributor
+
+
+      Users who have contributed to this file
+
+  * aparnanunnaboina <https://github.com/aparnanunnaboina>
+
+148 lines (79 sloc) 2.55 KB
+Raw
+<https://github.com/aparnanunnaboina/sales_prediction/raw/main/Linear%20Regression%20Project.py> Blame <https://github.com/aparnanunnaboina/sales_prediction/blame/main/Linear%20Regression%20Project.py>
+
+Edit this file
+E
+
+Open in github.dev
+.
+<https://github.dev/> Open in GitHub Desktop
+<x-github-client://openRepo/https://github.com/aparnanunnaboina/sales_prediction?branch=main&filepath=Linear%20Regression%20Project.py>
+
+  * Open with Desktop
+    <x-github-client://openRepo/https://github.com/aparnanunnaboina/sales_prediction?branch=main&filepath=Linear%20Regression%20Project.py>
+  * View raw
+    <https://github.com/aparnanunnaboina/sales_prediction/raw/main/Linear%20Regression%20Project.py>
+  *
+  * View blame
+    <https://github.com/aparnanunnaboina/sales_prediction/blame/main/Linear%20Regression%20Project.py>
+  *
+  * Edit file
+    <https://github.com/aparnanunnaboina/sales_prediction/edit/main/Linear%20Regression%20Project.py>
+  * Open with github.dev <https://github.dev/>
+  * Delete file
+    <https://github.com/aparnanunnaboina/sales_prediction/delete/main/Linear%20Regression%20Project.py>
+
+This file contains bidirectional Unicode text that may be interpreted or
+compiled differently than what appears below. To review, open the file
+in an editor that reveals hidden Unicode characters. Learn more about
+bidirectional Unicode characters <https://github.co/hiddenchars>
+Show hidden characters
+<https://github.com/aparnanunnaboina/sales_prediction/blob/main/%7B%7B%20revealButtonHref%20%7D%7D>
+	#!/usr/bin/env python
+	# coding: utf-8
+	
+	# In[2]:
+	
+	
+	import warnings
+	warnings.filterwarnings('ignore')
+	
+	# Import the numpy and pandas package
+	
+	import numpy as np
+	import pandas as pd
+	
+	# Data Visualisation
+	import matplotlib.pyplot as plt 
+	import seaborn as sns
+	
+	
+	# In[6]:
+	
+	
+	advertising = pd.read_csv(r'C:\Users\aparn\Downloads\advertising.csv')
+	
+	#Dropping all the values where null is present
+	advertising.dropna()
+	
+	
+	# In[8]:
+	
+	
+	#Calculating the Statistics
+	advertising.describe()
+	
+	# Outlier Analysis
+	fig, axs = plt.subplots(3, figsize = (5,5))
+	plt1 = sns.boxplot(advertising['TV'], ax = axs[0])
+	plt2 = sns.boxplot(advertising['Newspaper'], ax = axs[1])
+	plt3 = sns.boxplot(advertising['Radio'], ax = axs[2])
+	plt.tight_layout()
+	
+	
+	# In[9]:
+	
+	
+	sns.boxplot(advertising['Sales'])
+	plt.show()
+	
+	
+	# In[10]:
+	
+	
+	#Plotting the sales based on Variables
+	
+	sns.pairplot(advertising, x_vars=['TV', 'Newspaper', 'Radio'], y_vars='Sales', height=4, aspect=1, kind='scatter')
+	plt.show()
+	
+	
+	# In[11]:
+	
+	
+	#Creating a Correlation Matrix
+	sns.heatmap(advertising.corr(), cmap="YlGnBu", annot = True)
+	plt.show()
+	
+	
+	# In[13]:
+	
+	
+	X = advertising['TV']
+	y = advertising['Sales']
+	
+	#Splitting the Train , Test data
+	from sklearn.model_selection import train_test_split
+	X_train, X_test, y_train, y_test = train_test_split(X, y, train_size = 0.7, test_size = 0.3, random_state = 100)
+	
+	X_train.head()
+	
+	
+	# In[14]:
+	
+	
+	import statsmodels.api as sm
+	
+	# Add a constant to get an intercept
+	X_train_sm = sm.add_constant(X_train)
+	
+	# Fit the resgression line using 'OLS'
+	lr = sm.OLS(y_train, X_train_sm).fit()
+	
+	# Performing a summary operation lists out all the different parameters of the regression line fitted
+	print(lr.summary())
+	
+	
+	# In[16]:
+	
+	
+	#Sales=6.948+0.054×TV
+	plt.scatter(X_train, y_train)
+	plt.plot(X_train, 6.948 + 0.054*X_train, 'r')
+	plt.show()
+	
+	
+	# In[19]:
+	
+	
+	y_train_pred = lr.predict(X_train_sm)
+	res = (y_train - y_train_pred)
+	
+	
+	fig = plt.figure()
+	sns.distplot(res, bins = 15)
+	fig.suptitle('Error Terms', fontsize = 15)                  # Plot heading 
+	plt.xlabel('y_train - y_train_pred', fontsize = 15)         # X-label
+	plt.show()
+	
+	plt.scatter(X_train,res)
+	plt.show()
+	
+	# Add a constant to X_test
+	X_test_sm = sm.add_constant(X_test)
+	
+	# Predict the y values corresponding to X_test_sm
+	y_pred = lr.predict(X_test_sm)
+	
+	
+	# In[20]:
+	
+	
+	from sklearn.metrics import mean_squared_error
+	from sklearn.metrics import r2_score
+	
+	#Returns the mean squared error; we'll take a square root
+	np.sqrt(mean_squared_error(y_test, y_pred))
+	
+	
+	r_squared = r2_score(y_test, y_pred)
+	
+	plt.scatter(X_test, y_test)
+	plt.plot(X_test, 6.948 + 0.054 * X_test, 'r')
+	plt.show()
+	
+	
+	# In[ ]:
+	
+	
+	
+
+  *
+    Copy lines
+
+  *
+    Copy permalink
+
+  * View git blame
+    <https://github.com/aparnanunnaboina/sales_prediction/blame/000d73782f05c4632d83800e395b7083ee7add4d/Linear%20Regression%20Project.py>
+  * Reference in new issue
+    <https://github.com/aparnanunnaboina/sales_prediction/issues/new>
+
+Go
+
+
+    Footer
+
+<https://github.com/> © 2022 GitHub, Inc.
+
+
+      Footer navigation
+
+  * Terms
+    <https://docs.github.com/en/github/site-policy/github-terms-of-service>
+  * Privacy
+    <https://docs.github.com/en/github/site-policy/github-privacy-statement>
+  * Security <https://github.com/security>
+  * Status <https://www.githubstatus.com/>
+  * Docs <https://docs.github.com/>
+  * Contact GitHub <https://support.github.com/?tags=dotcom-footer>
+  * Pricing <https://github.com/pricing>
+  * API <https://docs.github.com/>
+  * Training <https://services.github.com/>
+  * Blog <https://github.blog/>
+  * About <https://github.com/about>
+
+You can’t perform that action at this time.
+You signed in with another tab or window. Reload to refresh your
+session. You signed out in another tab or window. Reload to refresh your
+session.
+sales_prediction/Linear Regression Project.py at main ·
+aparnanunnaboina/sales_prediction
